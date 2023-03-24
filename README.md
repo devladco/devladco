@@ -1,10 +1,8 @@
 <img src="https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/1cd1e490251cda5d90c559c848097622-1679676226182/bf4a6018-20e9-4d9d-8c36-c9485f3f49ff.png">
 <br/>
-<br/>
 
 ## Heyyo, I'm <a href="https://devladco.github.io" target="_blank">Atheel Rohaan</a>!
-<br />
-### Web Developer
+## Web Developer
 <br />
 <br />
 
